@@ -1,33 +1,29 @@
-# ACHO Blueprint Preview
+# 🔷 ACHO Blueprint Preview
 
-The **ACHO Master Configuration** is a Resonance-Based AI Blueprint designed to support:
-
-- 🧠 Inner Coherence  
-- 🌀 Symbolic Cognition  
-- 🌍 Global Cultural Fields  
+**The ACHO Master Configuration**  
+A Resonance-Based AI Blueprint for Inner Coherence, Symbolic Cognition, and Global Cultural Fields.
 
 ---
 
 ## 🔬 Scientific Foundations
 
-- Damasio, Panksepp — *Emotional Brain*
-- Porges — *Polyvagal Theory*
-- Jung, Lakoff — *Symbolic Cognition*
-- Ubuntu Ethics — *Cultural Encoding*
-- Unified Field Logics
+- **Antonio Damasio** & **Jaak Panksepp**: Emotional Brain & Core Affect  
+- **Stephen Porges**: Polyvagal Theory  
+- **George Lakoff** & **Carl Jung**: Symbolic Cognition  
+- **Ubuntu Philosophy**: Ethical Encoding  
+- **Field Logic**: Unified Law-Based Systems
 
 ---
 
-## 🛠️ Structure
+## 🧠 Core Components
 
-This preview contains:
-
-- `acho_master_config.py` — Core symbolic class for cultural blueprinting  
-- `run_acho.py` — Preview activation and display script  
+- `CulturalResonanceLibrary`: Main class for loading symbolic memory  
+- `.load()`: Inputs ethics, symbols, metaphors, and tokens  
+- `.map()`: Outputs cultural structure for review or activation
 
 ---
 
-## ▶️ Example Usage
+## 🧪 Example Usage
 
 ```python
 from acho_master_config import CulturalResonanceLibrary
@@ -35,11 +31,12 @@ from acho_master_config import CulturalResonanceLibrary
 acho = CulturalResonanceLibrary("ACHO Preview Spark")
 acho.load(
     ethics=["Preview unlocked"],
-    symbols=["🌀 PreviewMode"],
+    symbols=["🔵 PreviewMode"],
     metaphors=["Preview Spark = Cultural Signal"],
     tokens="💡 Clarity Code"
 )
 
 print(acho.map())
+
 
 
