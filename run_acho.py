@@ -9,3 +9,13 @@ acho.load(
 )
 
 print(acho.map())
+# Add Ocean Field
+ocean = CulturalResonanceLibrary("Ocean Field")
+ocean.load(
+    ethics=["Emotional Truth"],
+    symbols=["🌊 Wave"],
+    metaphors=["Still water holds memory"],
+    tokens="🌊 Emotional Memory Field"
+)
+
+print(ocean.map())
